@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 Uh-uh-uh
 Cuando te sientas sola (oah, oah, oah)
 No tienes que estar sola (oah, oah, oah)
 Uh-uh-uh, ¿dónde es que estás tú?
 Que donde sea que estés, yo voy a rescatarte
 Tú eres mi nena forever
+=======
+Ahora estamos en la primera linea del fichero pero en la nueva rama feature/Jhonnah
+>>>>>>> feature/Jhonnah
